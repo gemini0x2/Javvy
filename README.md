@@ -22,7 +22,7 @@
 ![screenshot](https://raw.githubusercontent.com/gemini0x2/Javvy/main/screenshot.jpg)
 
 ## Key Features
-
+* Clean simple gallery design
 * Filter movies by Year, Studio, Code, Actor
 * Order by title, release date, import date, size, resolution, duration, bitrate
 * In-app Media Player
