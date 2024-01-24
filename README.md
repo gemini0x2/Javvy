@@ -154,7 +154,7 @@ The application leverages the following technologies:
 
 ## Support
 
-<a href="patreon.com/user?u=104827587">
+<a href="https://patreon.com/user?u=104827587">
 	<img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
 </a>
 
