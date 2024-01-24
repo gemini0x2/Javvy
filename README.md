@@ -165,4 +165,6 @@ MIT
 ---
 
 > GitHub [gemini0x2](https://github.com/gemini0x2) &nbsp;&middot;&nbsp;
+> Discord [Javvy](https://discord.gg/RKpBguas) &nbsp;&middot;&nbsp;
+> Email gemini0x2@gmail.com
 
