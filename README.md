@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://raw.githubusercontent.com/gemini0x2/Javvy/main/icon.png" alt="Markdownify" width="200"></a>
+  <a href=""><img src="https://raw.githubusercontent.com/gemini0x2/Javvy/main/icon.png" alt="Markdownify" width="200"></a>
   <br>
   Javvy
   <br>
