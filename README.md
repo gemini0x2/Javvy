@@ -37,14 +37,23 @@
 Javvy can currently be installed as a Docker container. Docker, similar to a "virtual machine," enables users to install apps in containers managed by Docker, separate from their local machines. Containers can be easily removed and installed.
 
 1. Download and Install [docker](https://www.docker.com/products/docker-desktop/) in your machine. [systems supported mac,win,linux](https://docs.docker.com/get-docker/#supported-platforms)
-2. Download Javyy.zip
-3. Unzip Javyy.zip and edit the compose.yaml file to set your configurations (instructions inside file)
+2. Download [Javyy.zip](https://github.com/gemini0x2/Javvy/releases/tag/v0.1.0-alpha)
+3. Unzip Javyy.zip and edit the `compose.yaml` file to set your configurations (instructions inside file)
 4. Open terminal inside Javvy folder and run the folowing commands
+
+**Mac, Linux, or Windown Git bash console:**
 ```shell
 docker load < javvyserver.tar && docker load < javvyapp.tar
 ```
 ```shell
 docker compose up -d
+```
+**Windows cmd:**
+```
+docker load -i javvyserver.tar && docker load -i javvyapp.tar
+```
+```cmd
+docker-compose up -d
 ```
 5. Done! Open up your browser and enter [http://localhost:3000](http://localhost:3000)
 
