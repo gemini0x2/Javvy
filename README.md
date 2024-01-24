@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align="center">A self-hosted movie organization web app designed for JAV enthusiast</h4>
+<h4 align="center">A self-hosted movie organization web app designed for JAV enthusiasts</h4>
 <h6 align="center">Note: This repository is only for Issue tracking, Instructions, and Releases</h6>
 
 <p align="center">
