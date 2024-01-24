@@ -111,7 +111,7 @@ Basic nfo file example:
 <movie>
 <premiered>2021-03-13</premiered>
 <num>IPX-623</num>
-<originaltitle>IPX-623 A Terrible Blowjob With A Bruise And A Cute Rio Teacher Who Sucks Cock With A Smile (Blu-ray Disc)</originaltitle>
+<originaltitle>IPX-623 Teacher Who Sucks D*ck with A Smile (Blu-ray Disc)</originaltitle>
 <actor>
   <name>Hikaru Gatsu Mina</name>
   <type>actors</type>
